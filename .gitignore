@@ -48,3 +48,4 @@ content/languages/*
 *.codekit
 *.map
 *-ck-source-map-reference.coffee
+*.sql
